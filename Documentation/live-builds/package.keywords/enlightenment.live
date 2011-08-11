@@ -56,6 +56,7 @@
 =net-libs/libeweather-9999 **
 =net-misc/exalt-9999 **
 =net-misc/python-downloadmanager-9999 **
+=sci-geosciences/emap-9999 **
 =sys-libs/ememoa-9999 **
 =x11-misc/elsa-9999 **
 =x11-misc/emprint-9999 **
@@ -70,6 +71,7 @@
 =x11-plugins/e_modules-deskshow-9999 **
 =x11-plugins/e_modules-diskio-9999 **
 =x11-plugins/e_modules-drawer-9999 **
+=x11-plugins/e_modules-eenvader_fractal-9999 **
 =x11-plugins/e_modules-engage-9999 **
 =x11-plugins/e_modules-efm_nav-9999 **
 =x11-plugins/e_modules-efm_path-9999 **
