@@ -1,6 +1,10 @@
 =media-gfx/image-viewer-9999
+=media-libs/etch-9999
 =net-im/jefliks-9999
 =net-misc/exalt-9999
 =x11-plugins/e_modules-exalt-client-9999
 =x11-plugins/e_modules-places-9999
 =dev-python/python-lightmediascanner-9999
+=x11-plugins/e_modules-efm_nav-9999
+=x11-plugins/e_modules-efm_path-9999
+=x11-plugins/e_modules-efm_pathbar-9999
