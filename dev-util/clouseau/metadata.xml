@@ -4,8 +4,8 @@
 <herd>no-herd</herd>
 <maintainer>
  <email>enlightenment@gentoo.org</email>
+ <name>Enlightenment-Gentoo maintainers</name>
 </maintainer>
 <use>
-  <flag name="consolekit">Enables support for authorization using consolekit</flag>
 </use>
 </pkgmetadata>
