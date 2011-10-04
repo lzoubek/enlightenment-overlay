@@ -1,5 +1,6 @@
 =app-admin/empower-9999 **
 =app-benchmarks/expedite-9999 **
+=app-misc/enna-explorer-9999 **
 =app-misc/excessive-9999 **
 =app-text/epdf-9999 **
 =dev-cpp/ecorexx-9999 **
@@ -73,6 +74,7 @@
 =x11-plugins/e_modules-deskshow-9999 **
 =x11-plugins/e_modules-diskio-9999 **
 =x11-plugins/e_modules-drawer-9999 **
+=x11-plugins/e_modules-e-tiling-9999 **
 =x11-plugins/e_modules-eenvader_fractal-9999 **
 =x11-plugins/e_modules-engage-9999 **
 =x11-plugins/e_modules-efm_nav-9999 **
