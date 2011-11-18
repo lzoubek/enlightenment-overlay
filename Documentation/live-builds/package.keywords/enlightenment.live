@@ -35,7 +35,6 @@
 =media-gfx/enki-9999 **
 =media-gfx/ephoto-9999 **
 =media-gfx/exquisite-9999 **
-=media-gfx/image-viewer-9999 **
 =media-libs/atabake-9999 **
 =media-libs/edje-9999 **
 =media-libs/elementary-9999 **
@@ -77,9 +76,6 @@
 =x11-plugins/e_modules-e-tiling-9999 **
 =x11-plugins/e_modules-eenvader_fractal-9999 **
 =x11-plugins/e_modules-engage-9999 **
-=x11-plugins/e_modules-efm_nav-9999 **
-=x11-plugins/e_modules-efm_path-9999 **
-=x11-plugins/e_modules-efm_pathbar-9999 **
 =x11-plugins/e_modules-elfe-9999 **
 =x11-plugins/e_modules-eooorg-9999 **
 =x11-plugins/e_modules-everything-mpris-9999 **
@@ -102,7 +98,6 @@
 =x11-plugins/e_modules-mpdule-9999 **
 =x11-plugins/e_modules-net-9999 **
 =x11-plugins/e_modules-news-9999 **
-=x11-plugins/e_modules-notification-9999 **
 =x11-plugins/e_modules-penguins-9999 **
 =x11-plugins/e_modules-photo-9999 **
 =x11-plugins/e_modules-places-9999 **
@@ -123,5 +118,10 @@
 =x11-plugins/eplanet-9999 **
 =x11-plugins/extramenu-9999 **
 =x11-plugins/trash-9999 **
+=x11-themes/blingbling-9999 **
+=x11-themes/darkness-9999 **
+=x11-themes/detour-elm-9999 **
+=x11-themes/detourious-9999 **
+=x11-themes/efenniht-9999 **
 =x11-wm/ecomp-9999 **
 =x11-wm/enlightenment-9999 **
