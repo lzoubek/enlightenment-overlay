@@ -20,7 +20,6 @@
 =x11-plugins/e_modules-flame-9999
 =x11-plugins/e_modules-forecasts-9999
 =x11-plugins/e_modules-iiirk-9999
-=x11-plugins/e_modules-language-9999
 =x11-plugins/e_modules-mail-9999
 =x11-plugins/e_modules-mem-9999
 =x11-plugins/e_modules-moon-9999
@@ -36,7 +35,6 @@
 =x11-plugins/e_modules-snow-9999
 =x11-plugins/e_modules-taskbar-9999
 =x11-plugins/e_modules-tclock-9999
-=x11-plugins/e_modules-tiling-9999
 =x11-plugins/e_modules-uptime-9999
 =x11-plugins/e_modules-weather-9999
 =x11-plugins/e_modules-winlist-ng-9999
